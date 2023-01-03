@@ -1,0 +1,686 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Baju"
+    },
+    {
+      "id": 2,
+      "nama": "Jaket"
+    },
+    {
+      "id": 3,
+      "nama": "Sepatu"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "TS - MONSTER",
+      "harga": 160000,
+      "is_ready": true,
+      "gambar": "ts monster.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Baju"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "TS - FREE",
+      "harga": 160000,
+      "is_ready": true,
+      "gambar": "ts free.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Baju"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "TS - SKELETONS",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "ts skeleton.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Baju"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "TS - FUN",
+      "harga": 160000,
+      "is_ready": true,
+      "gambar": "ts fun.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Baju"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "TS - ART",
+      "harga": 190000,
+      "is_ready": true,
+      "gambar": "ts art.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Baju"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "TS - COURAGE KING",
+      "harga": 170000,
+      "is_ready": true,
+      "gambar": "ts courage.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Baju"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "TS - FRONT END",
+      "harga": 140000,
+      "is_ready": true,
+      "gambar": "ts fe.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Baju"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "TS - BKE",
+      "harga": 140000,
+      "is_ready": true,
+      "gambar": "ts bke.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Baju"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-09",
+      "nama": "VANS SK8 HIGHT",
+      "harga": 350000,
+      "is_ready": true,
+      "gambar": "vans.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Sepatu"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-010",
+      "nama": "PIERO ORIGINAL",
+      "harga": 450000,
+      "is_ready": true,
+      "gambar": "piero.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Sepatu"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "K-011",
+      "nama": "AIR JORDAN",
+      "harga": 750000,
+      "is_ready": true,
+      "gambar": "air jordan.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Sepatu"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-012",
+      "nama": "HODIE - HANDMAD",
+      "harga": 450000,
+      "is_ready": true,
+      "gambar": "ts logo.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-013",
+      "nama": "STONE - ISLAND",
+      "harga": 200000,
+      "is_ready": true,
+      "gambar": "stone island.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-014",
+      "nama": "HODIE - MAYHEM",
+      "harga": 250000,
+      "is_ready": true,
+      "gambar": "mayhem.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-015",
+      "nama": "HODIE - TRASHER",
+      "harga": 230000,
+      "is_ready": true,
+      "gambar": "trasher.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah": 1,
+      "total_harga": 160000,
+      "product": {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "TS - MONSTER",
+        "harga": 160000,
+        "is_ready": true,
+        "gambar": "ts monster.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Baju"
+        }
+      },
+      "id": 1
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 450000,
+      "product": {
+        "id": 11,
+        "kode": "K-012",
+        "nama": "HODIE - HANDMAD",
+        "harga": 450000,
+        "is_ready": true,
+        "gambar": "ts logo.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Jaket"
+        }
+      },
+      "id": 2
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 350000,
+      "product": {
+        "id": 8,
+        "kode": "K-09",
+        "nama": "VANS SK8 HIGHT",
+        "harga": 350000,
+        "is_ready": true,
+        "gambar": "vans.jpg",
+        "category": {
+          "id": 3,
+          "nama": "Sepatu"
+        }
+      },
+      "id": 3
+    }
+  ],
+  "pesanans": [
+    {
+      "total_bayar": 1350000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 150000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "TS - SKELETONS",
+            "harga": 150000,
+            "is_ready": true,
+            "gambar": "ts skeleton.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Baju"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 450000,
+          "product": {
+            "id": 11,
+            "kode": "K-012",
+            "nama": "HODIE - HANDMAD",
+            "harga": 450000,
+            "is_ready": true,
+            "gambar": "ts logo.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 750000,
+          "product": {
+            "id": 10,
+            "kode": "K-011",
+            "nama": "AIR JORDAN",
+            "harga": 750000,
+            "is_ready": true,
+            "gambar": "air jordan.jpg",
+            "category": {
+              "id": 3,
+              "nama": "Sepatu"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 2
+    },
+    {
+      "total_bayar": 150000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 150000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "TS - SKELETONS",
+            "harga": 150000,
+            "is_ready": true,
+            "gambar": "ts skeleton.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Baju"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 4
+    },
+    {
+      "total_bayar": 680000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 450000,
+          "product": {
+            "id": 11,
+            "kode": "K-012",
+            "nama": "HODIE - HANDMAD",
+            "harga": 450000,
+            "is_ready": true,
+            "gambar": "ts logo.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 230000,
+          "product": {
+            "id": 14,
+            "kode": "K-015",
+            "nama": "HODIE - TRASHER",
+            "harga": 230000,
+            "is_ready": true,
+            "gambar": "trasher.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 5
+    },
+    {
+      "total_bayar": 680000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 450000,
+          "product": {
+            "id": 11,
+            "kode": "K-012",
+            "nama": "HODIE - HANDMAD",
+            "harga": 450000,
+            "is_ready": true,
+            "gambar": "ts logo.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 230000,
+          "product": {
+            "id": 14,
+            "kode": "K-015",
+            "nama": "HODIE - TRASHER",
+            "harga": 230000,
+            "is_ready": true,
+            "gambar": "trasher.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 6
+    },
+    {
+      "total_bayar": 680000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 450000,
+          "product": {
+            "id": 11,
+            "kode": "K-012",
+            "nama": "HODIE - HANDMAD",
+            "harga": 450000,
+            "is_ready": true,
+            "gambar": "ts logo.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 230000,
+          "product": {
+            "id": 14,
+            "kode": "K-015",
+            "nama": "HODIE - TRASHER",
+            "harga": 230000,
+            "is_ready": true,
+            "gambar": "trasher.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 7
+    },
+    {
+      "total_bayar": 680000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 450000,
+          "product": {
+            "id": 11,
+            "kode": "K-012",
+            "nama": "HODIE - HANDMAD",
+            "harga": 450000,
+            "is_ready": true,
+            "gambar": "ts logo.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 230000,
+          "product": {
+            "id": 14,
+            "kode": "K-015",
+            "nama": "HODIE - TRASHER",
+            "harga": 230000,
+            "is_ready": true,
+            "gambar": "trasher.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 8
+    },
+    {
+      "total_bayar": 680000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 450000,
+          "product": {
+            "id": 11,
+            "kode": "K-012",
+            "nama": "HODIE - HANDMAD",
+            "harga": 450000,
+            "is_ready": true,
+            "gambar": "ts logo.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 230000,
+          "product": {
+            "id": 14,
+            "kode": "K-015",
+            "nama": "HODIE - TRASHER",
+            "harga": 230000,
+            "is_ready": true,
+            "gambar": "trasher.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 9
+    },
+    {
+      "total_bayar": 680000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 450000,
+          "product": {
+            "id": 11,
+            "kode": "K-012",
+            "nama": "HODIE - HANDMAD",
+            "harga": 450000,
+            "is_ready": true,
+            "gambar": "ts logo.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 230000,
+          "product": {
+            "id": 14,
+            "kode": "K-015",
+            "nama": "HODIE - TRASHER",
+            "harga": 230000,
+            "is_ready": true,
+            "gambar": "trasher.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 10
+    },
+    {
+      "total_bayar": 680000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 450000,
+          "product": {
+            "id": 11,
+            "kode": "K-012",
+            "nama": "HODIE - HANDMAD",
+            "harga": 450000,
+            "is_ready": true,
+            "gambar": "ts logo.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 230000,
+          "product": {
+            "id": 14,
+            "kode": "K-015",
+            "nama": "HODIE - TRASHER",
+            "harga": 230000,
+            "is_ready": true,
+            "gambar": "trasher.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 11
+    },
+    {
+      "total_bayar": 680000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 450000,
+          "product": {
+            "id": 11,
+            "kode": "K-012",
+            "nama": "HODIE - HANDMAD",
+            "harga": 450000,
+            "is_ready": true,
+            "gambar": "ts logo.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 230000,
+          "product": {
+            "id": 14,
+            "kode": "K-015",
+            "nama": "HODIE - TRASHER",
+            "harga": 230000,
+            "is_ready": true,
+            "gambar": "trasher.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Jaket"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 12
+    },
+    {
+      "total_bayar": 160000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 160000,
+          "product": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "TS - MONSTER",
+            "harga": 160000,
+            "is_ready": true,
+            "gambar": "ts monster.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Baju"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 13
+    }
+  ]
+}

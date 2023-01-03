@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: 'Public Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.navbar {
+  background-color: #22668a;
+}
+
+.category-aktif {
+  background-color: #22668a;
+  color: white;
+}
+
+.btn-primary {
+  background-color: #22668a;
+}
+
+@media only screen and (max-height: 1000px) {
+  .hasil {
+    height: 500px;
+  }
+
+  .menu {
+    height: 800px;
+  }
+}
+
+.overflow-auto::-webkit-scrollbar {
+  display: none;
+}
+
+.float-right {
+  float: right;
+}
+
+.d-flex {
+  width: 80%;
+}
+
+.btn-search {
+  background-color: white;
+  color: #22668a;
+}
+.btn-search:focus {
+  outline-style: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
