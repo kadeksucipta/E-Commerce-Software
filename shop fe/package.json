@@ -1,5 +1,5 @@
 {
-  "name": "kasir",
+  "name": "E-Commerce-Software",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,19 +20,20 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "node index.js",
+    "build": "echo \"No build specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kadeksucipta/E-Commerce-Software.git"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kadeksucipta/E-Commerce-Software.git"
+  "author": "",
+    "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/kadeksucipta/E-Commerce-Software/issues"
   },
+  "homepage": "https://github.com/kadeksucipta/E-Commerce-Software#readme",
   "eslintConfig": {
     "extends": [
       "react-app",
